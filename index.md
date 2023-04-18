@@ -10,3 +10,7 @@ const message = "Hello, world!";
 console.log(message);
 // Hello, world!
 ```
+#### Groceries to get
+- [ ] Bacon
+- [ ] Eggs
+- [ ] Bacon-flavored eggs
