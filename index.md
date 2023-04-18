@@ -5,3 +5,8 @@
 ##### This is my fancy h5
 ###### This is my fancy h6
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```javascript
+const message = "Hello, world!";
+console.log(message);
+// Hello, world!
+```
